@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        String username_admin = "admin";
-        String password_admin = "admin";
         String usernameRegistered = "Leonardo";
         String passwordRegistered = "123";
         String username;
