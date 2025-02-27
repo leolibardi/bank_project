@@ -8,7 +8,7 @@
 #### - Variables Declaration;
 #### - Text Block;
 #### - Switch Case,
-#### - Create repository with Git, commit and pull updates in GitHub remote repository.
+#### - Create repository, commit and pull updates with Git in GitHub remote repository.
 
 
 ## Programming Language Used:
