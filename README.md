@@ -2,7 +2,7 @@
 
 
 ### It's a simple project in which that explores some logical java concepts and git utilization.
-### The project's objective is improve skills of programming logic with utilization of:
+###  The aim of the project is to improve programming logic skills using::
 #### - Decision Structures, 
 #### - Do-While for Prompt Menu/Start-Stop Logic;
 #### - Variables Declaration;
